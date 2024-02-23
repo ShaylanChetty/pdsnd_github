@@ -1,17 +1,17 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+Project was created on the 18th of February 2024 and the README file on the 23rd of February 2024.
 
 ### Project Title
-Replace the Project Title
+pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+My project is about setting up my own Git Hub repository,forking a repository, adding and ignoring files. Improving and updating my documentation
 
 ### Files used
-Include the files used
+Files include my bikeshare project and README files.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/tree/master
 
